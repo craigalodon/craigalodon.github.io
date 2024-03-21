@@ -35,7 +35,6 @@ plugins:
 
 # Other settings
 google_analytics: G-PJDDFSPSE7
-favicon: True
 
 header_pages:
   - about.markdown
