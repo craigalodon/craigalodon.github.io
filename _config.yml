@@ -34,7 +34,7 @@ plugins:
   - jekyll-feed
 
 # Other settings
-google_analytics: UA-NNNNNNNN-N
+google_analytics: UG-PJDDFSPSE7
 
 header_pages:
   - about.markdown
